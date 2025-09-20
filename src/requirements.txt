@@ -1,4 +1,4 @@
-taipy==4.1.0
+taipy==4.0.2
 pandas==2.2.2
 matplotlib==3.10.6
 networkx==3.3
