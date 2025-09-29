@@ -4,3 +4,4 @@ matplotlib==3.10.6
 networkx==3.3
 ortools==9.14.6206
 protobuf==4.25.3
+taipy==4.0.2
