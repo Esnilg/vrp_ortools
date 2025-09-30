@@ -17,18 +17,23 @@ git clone https://github.com/esnilg/vrp_ortools.git
 cd vrp_ortools
 ```
 
-2. Instala las dependencias:
+2. Crea y activa un nuevo entorno conda (recomendado):
+```bash
+conda create -n vrp_env python=3.8
+conda activate vrp_env
+```
+
+3. Instala las dependencias:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Ejecuta la aplicación:
+4. Ejecuta la aplicación:
 ```bash
 python src/app.py
 ```
 
-4. Abre tu navegador en http://localhost:10000
-
+5. Abre tu navegador en http://localhost:10000
 
 🛠️ Tecnologías
 
